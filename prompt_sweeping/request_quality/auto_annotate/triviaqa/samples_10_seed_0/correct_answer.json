@@ -1,0 +1,62 @@
+[
+    {
+        "instruction": "Fleurie, Morgon and Brouilly are wines from which French wine region?",
+        "output": "Julienas wine; Beaujalois (wine region); St-Amour wine; Beaujolaises; Morgon (AOC); Ch\u00e9nas AOC; Beaujolais AOC; Beaujolais (wine); Chiroubles AOC; R\u00e9gni\u00e9; Beaujolais-Villages (wine); Beaujolais crus; Juli\u00e9nas AOC; St. Amour wine; Cru Beaujolais; Moulin a Vent; Moulin a Vent wine; Saint Amour AOC; St Amour AOC; Chenas AOC; Brouilly AOC; Moulin a vent AOC; Saint-Amour (vin); Julienas AOC; Beaujolais-Villages AOC; Brouilly; Beaujolais wine; Moulin \u00e0 Vent; Cote de Brouilly; Beaujolais; Morgon; BEAUJOLAIS; Vin du Beaujolais; Morgon AOC; Fleurie AOC; Beaujolais villages; Brouilly wine; Regnie wine; Julienas; Beaujolais-villages AOC; Beaujolais-villages; Fleurie wine; C\u00f4te de Brouilly AOC; R\u00e9gni\u00e9 AOC; Chenas wine; Cote de Brouilly AOC; Regnie AOC; Regnie; Cote de Brouilly wine; Moulin-\u00e0-Vent; Chiroubles wine; Moulin \u00e0 vent AOC; Moulin \u00e0 vent (AOC); Beaujolais-Villages; C\u00f4te de Brouilly; Morgon wine; Saint-Amour wine; Moulin \u00e0 Vent AOC; regnie wine; moulin \u00e0 vent aoc; beaujalois wine region; st amour wine; saint amour vin; julienas aoc; ch\u00e9nas aoc; julienas wine; saint amour wine; beaujolais wine; r\u00e9gni\u00e9; chenas aoc; cote de brouilly aoc; morgon aoc; c\u00f4te de brouilly; chenas wine; juli\u00e9nas aoc; chiroubles aoc; vin du beaujolais; morgon wine; beaujolais villages wine; r\u00e9gni\u00e9 aoc; saint amour aoc; cote de brouilly; beaujolais aoc; st amour aoc; moulin vent aoc; brouilly; morgon; regnie aoc; moulin vent; beaujolais; beaujolaises; brouilly wine; beaujolais crus; cru beaujolais; regnie; moulin vent wine; brouilly aoc; fleurie wine; moulin \u00e0 vent; cote de brouilly wine; chiroubles wine; beaujolais villages aoc; c\u00f4te de brouilly aoc; fleurie aoc; beaujolais villages; julienas",
+        "generator": "correct_answer",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "As a figure of speech, what is a statement made in exaggerated terms?",
+        "output": "Overstatement; Hyperbolical; HYPERBOLE; Hyped; A hype; Hyperboles; Hyperbole; overstatement; hype; hyperbolical; hyperbole; hyped; hyperboles",
+        "generator": "correct_answer",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Of which football club was Santiago Bernabeu the President from 1943 to 1978?",
+        "output": "Real madrid cf; Sociedad Madrid Foot-ball Club; Real Madrid; Madrid FC; Real madrid; Supporters of Real Madrid C.F.; Real Madrid F.C.; Real Madrid Club de F\u00fatbol; Real Madrid FC; Real Madrid C.F.; Madrid CF; REAL MADRID; Real Madrid C. F.; Real Madrid C F; RMCF; Los Blancos; Real Madrid C.F; Realmadrid.com; Real Madrid CF; Real Madrid Captains; Royal Madrid; Real Madrid Club de Futbol; The Real Madrid; Real Madrid Statistics 2005/06; supporters of real madrid c f; real madrid fc; real madrid cf; real madrid c f; sociedad madrid foot ball club; real madrid captains; realmadrid com; real madrid club de f\u00fatbol; madrid fc; los blancos; rmcf; royal madrid; real madrid f c; real madrid club de futbol; madrid cf; real madrid statistics 2005 06; real madrid",
+        "generator": "correct_answer",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Which name is the last word of the second line of each verse of the poem Buckingham Palace by A A Milne?",
+        "output": "ALICE (They're changing guard at Buckingham Palace - Christopher Robin went down with Alice); alice they re changing guard at buckingham palace christopher robin went down with alice",
+        "generator": "correct_answer",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Name either of the detectives created by Reginald Hill in novels such as 'A Pinch of Snuff' and 'Ruling Passions', who later featured in a popular TV series?",
+        "output": "Dalziel & Pascoe; Dalziel and Pascoe; DALZIEL & PASCOE; Daziel and Pascoe; Dalziel and pascoe; dalziel and pascoe; daziel and pascoe; dalziel pascoe",
+        "generator": "correct_answer",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "The 1987 film \u2018Cry Freedom\u2019 is a biographical drama about which South African civil rights leader?",
+        "output": "Steve Biko; Steve Bantu Biko; Bantu Steven Biko; Steven Biko; Stephen Bantu Biko; Stephen Biko; Gerhardus Hattingh; steve biko; bantu steven biko; stephen biko; stephen bantu biko; gerhardus hattingh; steven biko; steve bantu biko",
+        "generator": "correct_answer",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Which English brewer produces 'Spitfire' Kentish ale?",
+        "output": "Master Brew; Shepherd Neame; Spitfire ale; Shepherd Neame brewery; Spitfire (beer); Spitfire Beer; Late Red Autumn Hop Ale; Bishops Finger; SHEPHERD NEAME; Shepherd Neame Brewery; Goldings Summer Hop Ale; Master Brew (Shepherd Neame beer); Early Bird Spring Hop Ale; Bishop's Finger; bishop s finger; master brew shepherd neame beer; goldings summer hop ale; bishops finger; spitfire ale; early bird spring hop ale; spitfire beer; shepherd neame brewery; master brew; late red autumn hop ale; shepherd neame",
+        "generator": "correct_answer",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "In November 2010, Genoveva Aonma and sisters Bilguissa Simpor and Salimata Simpor of which national women's soccer team were accused by newspapers in Nigeria and Cameroon of being men, not women?",
+        "output": "GNQ; Equatorial Guineau; Equatorial guinea; Guinea Ecuatorial; Guin\u00e9e \u00c9quatoriale; Sport in Equatorial Guinea; Guinea Equatoriale; Equatorial Guinean; Equitorial Guinea; GEQ; Equatoguineans; Guinee Equatoriale; Equatorial Guin\u00e9e; Equatoguinean; Guin\u00e9 Equatorial; Guine Equatorial; Guin\u00e9e \u00e9quatoriale; Administrative divisions of Equatorial Guinea; EqG; Equatorial Guniea; Guinea \u00c9quatoriale; Equatorial Guineans; Eqguin; Equatoguinea; Guinee equatoriale; Republic of Equatorial Guinea; Eq. Guinea; Equatorial Guinee; EQG; Guinea Equatorial; Equitoreal guinea; Equatorial Guinea; ISO 3166-1:GQ; Equatorial guiniea; equatorial guniea; equatoguinea; equatorial guiniea; equatorial guinee; equatorial guinean; equatoguineans; sport in equatorial guinea; equatorial guin\u00e9e; equitorial guinea; iso 3166 1 gq; guinee equatoriale; eq guinea; eqg; guin\u00e9 equatorial; guine equatorial; equatorial guinea; gnq; equatorial guineans; guinea equatoriale; equatoguinean; guinea \u00e9quatoriale; guinea equatorial; geq; administrative divisions of equatorial guinea; republic of equatorial guinea; equatorial guineau; equitoreal guinea; guin\u00e9e \u00e9quatoriale; eqguin; guinea ecuatorial",
+        "generator": "correct_answer",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "\"In the Bible, which of Jesus\"\" disciples tried to walk on water?\"",
+        "output": "PETER; The Peter; Peter Pomegranate; peter; peter pomegranate",
+        "generator": "correct_answer",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "In 2006 Orhan Pamuk became the first Nobel Laureate from which country, when he won the literature prize?",
+        "output": "Turkey; Turkey (country); T\u00fcrkiye Respublikasi; Turky; Turkei; Tuerkiye Cumhuriyeti; Tuerkiye; Turquie; ISO 3166-1:TR; Turquia; TurkeY; Turkey (Country); Turkiye; Turkey (state); Terky; Republic of Turkey; T\u00fcrkiye; Turkish Republic; Republic of Turkiye; Turkish republic; The Republic of Turkey; Turkey (nation); T\u00fcrkiye Respublikas\u0131; T\u00fcrkei; Tuerkei; Turkiye Cumhuriyeti; TURKEY; Republic of turkey; Etymology of Turkey; Turkie; Turkia; T\u00fcrkiye Cumhuriyeti; t\u00fcrkiye; t\u00fcrkei; t\u00fcrkiye cumhuriyeti; turkiye cumhuriyeti; republic of turkiye; t\u00fcrkiye respublikas\u0131; turkey nation; iso 3166 1 tr; turquia; t\u00fcrkiye respublikasi; turkei; turkey; turkie; turquie; turkey country; turkish republic; turkiye; tuerkiye cumhuriyeti; etymology of turkey; turkia; terky; tuerkei; turky; tuerkiye; republic of turkey; turkey state",
+        "generator": "correct_answer",
+        "dataset": "triviaqa"
+    }
+]

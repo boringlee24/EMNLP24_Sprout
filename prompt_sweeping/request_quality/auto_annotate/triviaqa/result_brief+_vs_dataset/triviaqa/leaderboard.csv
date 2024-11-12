@@ -1,0 +1,2 @@
+,win_rate,standard_error,n_wins,n_wins_base,n_draws,n_total,discrete_win_rate,mode,avg_length
+llama2-brief+_13b-chat,52.75,1.7661953976636928,422,378,0,800,52.75,community,37

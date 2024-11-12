@@ -1,0 +1,242 @@
+[
+    {
+        "instruction": "Fleurie, Morgon and Brouilly are wines from which French wine region?",
+        "output": "Julienas wine; Beaujalois (wine region); St-Amour wine; Beaujolaises; Morgon (AOC); Ch\u00e9nas AOC; Beaujolais AOC; Beaujolais (wine); Chiroubles AOC; R\u00e9gni\u00e9; Beaujolais-Villages (wine); Beaujolais crus; Juli\u00e9nas AOC; St. Amour wine; Cru Beaujolais; Moulin a Vent; Moulin a Vent wine; Saint Amour AOC; St Amour AOC; Chenas AOC; Brouilly AOC; Moulin a vent AOC; Saint-Amour (vin); Julienas AOC; Beaujolais-Villages AOC; Brouilly; Beaujolais wine; Moulin \u00e0 Vent; Cote de Brouilly; Beaujolais; Morgon; BEAUJOLAIS; Vin du Beaujolais; Morgon AOC; Fleurie AOC; Beaujolais villages; Brouilly wine; Regnie wine; Julienas; Beaujolais-villages AOC; Beaujolais-villages; Fleurie wine; C\u00f4te de Brouilly AOC; R\u00e9gni\u00e9 AOC; Chenas wine; Cote de Brouilly AOC; Regnie AOC; Regnie; Cote de Brouilly wine; Moulin-\u00e0-Vent; Chiroubles wine; Moulin \u00e0 vent AOC; Moulin \u00e0 vent (AOC); Beaujolais-Villages; C\u00f4te de Brouilly; Morgon wine; Saint-Amour wine; Moulin \u00e0 Vent AOC; regnie wine; moulin \u00e0 vent aoc; beaujalois wine region; st amour wine; saint amour vin; julienas aoc; ch\u00e9nas aoc; julienas wine; saint amour wine; beaujolais wine; r\u00e9gni\u00e9; chenas aoc; cote de brouilly aoc; morgon aoc; c\u00f4te de brouilly; chenas wine; juli\u00e9nas aoc; chiroubles aoc; vin du beaujolais; morgon wine; beaujolais villages wine; r\u00e9gni\u00e9 aoc; saint amour aoc; cote de brouilly; beaujolais aoc; st amour aoc; moulin vent aoc; brouilly; morgon; regnie aoc; moulin vent; beaujolais; beaujolaises; brouilly wine; beaujolais crus; cru beaujolais; regnie; moulin vent wine; brouilly aoc; fleurie wine; moulin \u00e0 vent; cote de brouilly wine; chiroubles wine; beaujolais villages aoc; c\u00f4te de brouilly aoc; fleurie aoc; beaujolais villages; julienas",
+        "generator": "correct_answer",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "As a figure of speech, what is a statement made in exaggerated terms?",
+        "output": "Overstatement; Hyperbolical; HYPERBOLE; Hyped; A hype; Hyperboles; Hyperbole; overstatement; hype; hyperbolical; hyperbole; hyped; hyperboles",
+        "generator": "correct_answer",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Of which football club was Santiago Bernabeu the President from 1943 to 1978?",
+        "output": "Real madrid cf; Sociedad Madrid Foot-ball Club; Real Madrid; Madrid FC; Real madrid; Supporters of Real Madrid C.F.; Real Madrid F.C.; Real Madrid Club de F\u00fatbol; Real Madrid FC; Real Madrid C.F.; Madrid CF; REAL MADRID; Real Madrid C. F.; Real Madrid C F; RMCF; Los Blancos; Real Madrid C.F; Realmadrid.com; Real Madrid CF; Real Madrid Captains; Royal Madrid; Real Madrid Club de Futbol; The Real Madrid; Real Madrid Statistics 2005/06; supporters of real madrid c f; real madrid fc; real madrid cf; real madrid c f; sociedad madrid foot ball club; real madrid captains; realmadrid com; real madrid club de f\u00fatbol; madrid fc; los blancos; rmcf; royal madrid; real madrid f c; real madrid club de futbol; madrid cf; real madrid statistics 2005 06; real madrid",
+        "generator": "correct_answer",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Which name is the last word of the second line of each verse of the poem Buckingham Palace by A A Milne?",
+        "output": "ALICE (They're changing guard at Buckingham Palace - Christopher Robin went down with Alice); alice they re changing guard at buckingham palace christopher robin went down with alice",
+        "generator": "correct_answer",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Name either of the detectives created by Reginald Hill in novels such as 'A Pinch of Snuff' and 'Ruling Passions', who later featured in a popular TV series?",
+        "output": "Dalziel & Pascoe; Dalziel and Pascoe; DALZIEL & PASCOE; Daziel and Pascoe; Dalziel and pascoe; dalziel and pascoe; daziel and pascoe; dalziel pascoe",
+        "generator": "correct_answer",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "The 1987 film \u2018Cry Freedom\u2019 is a biographical drama about which South African civil rights leader?",
+        "output": "Steve Biko; Steve Bantu Biko; Bantu Steven Biko; Steven Biko; Stephen Bantu Biko; Stephen Biko; Gerhardus Hattingh; steve biko; bantu steven biko; stephen biko; stephen bantu biko; gerhardus hattingh; steven biko; steve bantu biko",
+        "generator": "correct_answer",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Which English brewer produces 'Spitfire' Kentish ale?",
+        "output": "Master Brew; Shepherd Neame; Spitfire ale; Shepherd Neame brewery; Spitfire (beer); Spitfire Beer; Late Red Autumn Hop Ale; Bishops Finger; SHEPHERD NEAME; Shepherd Neame Brewery; Goldings Summer Hop Ale; Master Brew (Shepherd Neame beer); Early Bird Spring Hop Ale; Bishop's Finger; bishop s finger; master brew shepherd neame beer; goldings summer hop ale; bishops finger; spitfire ale; early bird spring hop ale; spitfire beer; shepherd neame brewery; master brew; late red autumn hop ale; shepherd neame",
+        "generator": "correct_answer",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "In November 2010, Genoveva Aonma and sisters Bilguissa Simpor and Salimata Simpor of which national women's soccer team were accused by newspapers in Nigeria and Cameroon of being men, not women?",
+        "output": "GNQ; Equatorial Guineau; Equatorial guinea; Guinea Ecuatorial; Guin\u00e9e \u00c9quatoriale; Sport in Equatorial Guinea; Guinea Equatoriale; Equatorial Guinean; Equitorial Guinea; GEQ; Equatoguineans; Guinee Equatoriale; Equatorial Guin\u00e9e; Equatoguinean; Guin\u00e9 Equatorial; Guine Equatorial; Guin\u00e9e \u00e9quatoriale; Administrative divisions of Equatorial Guinea; EqG; Equatorial Guniea; Guinea \u00c9quatoriale; Equatorial Guineans; Eqguin; Equatoguinea; Guinee equatoriale; Republic of Equatorial Guinea; Eq. Guinea; Equatorial Guinee; EQG; Guinea Equatorial; Equitoreal guinea; Equatorial Guinea; ISO 3166-1:GQ; Equatorial guiniea; equatorial guniea; equatoguinea; equatorial guiniea; equatorial guinee; equatorial guinean; equatoguineans; sport in equatorial guinea; equatorial guin\u00e9e; equitorial guinea; iso 3166 1 gq; guinee equatoriale; eq guinea; eqg; guin\u00e9 equatorial; guine equatorial; equatorial guinea; gnq; equatorial guineans; guinea equatoriale; equatoguinean; guinea \u00e9quatoriale; guinea equatorial; geq; administrative divisions of equatorial guinea; republic of equatorial guinea; equatorial guineau; equitoreal guinea; guin\u00e9e \u00e9quatoriale; eqguin; guinea ecuatorial",
+        "generator": "correct_answer",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "\"In the Bible, which of Jesus\"\" disciples tried to walk on water?\"",
+        "output": "PETER; The Peter; Peter Pomegranate; peter; peter pomegranate",
+        "generator": "correct_answer",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "In 2006 Orhan Pamuk became the first Nobel Laureate from which country, when he won the literature prize?",
+        "output": "Turkey; Turkey (country); T\u00fcrkiye Respublikasi; Turky; Turkei; Tuerkiye Cumhuriyeti; Tuerkiye; Turquie; ISO 3166-1:TR; Turquia; TurkeY; Turkey (Country); Turkiye; Turkey (state); Terky; Republic of Turkey; T\u00fcrkiye; Turkish Republic; Republic of Turkiye; Turkish republic; The Republic of Turkey; Turkey (nation); T\u00fcrkiye Respublikas\u0131; T\u00fcrkei; Tuerkei; Turkiye Cumhuriyeti; TURKEY; Republic of turkey; Etymology of Turkey; Turkie; Turkia; T\u00fcrkiye Cumhuriyeti; t\u00fcrkiye; t\u00fcrkei; t\u00fcrkiye cumhuriyeti; turkiye cumhuriyeti; republic of turkiye; t\u00fcrkiye respublikas\u0131; turkey nation; iso 3166 1 tr; turquia; t\u00fcrkiye respublikasi; turkei; turkey; turkie; turquie; turkey country; turkish republic; turkiye; tuerkiye cumhuriyeti; etymology of turkey; turkia; terky; tuerkei; turky; tuerkiye; republic of turkey; turkey state",
+        "generator": "correct_answer",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "\"What is an Australian talking about if he says \"\"Emma Chizzit\"\"?\"",
+        "output": "The price of something; price of something",
+        "generator": "correct_answer",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Now a part of Carnival Corporation, what shipping company commissioned and sailed the RMS Titanic?",
+        "output": "White Star Line of Boston Packets; White Star liner; Oceanic Steam Navigation Company; White Star Line; Ismay, Imrie and Company; Ismay, Imrie & Company; Oceanic Steam Navigation Company Ltd; ismay imrie and company; white star line; ismay imrie company; oceanic steam navigation company; oceanic steam navigation company ltd; white star liner; white star line of boston packets",
+        "generator": "correct_answer",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "David Lloyd George was British Prime Minister during the reign of which monarch?",
+        "output": "George V of Great Britain and Ireland; George V of Great Britain; Cultural depictions of George V of the United Kingdom; George V of Scotland; King George V of the United Kingdom; King George V of Great Britain; George Frederick Ernest Albert; George V of the United Kingdom; George V; George the Fifth; George v of the united kingdom; King George V; George V of the UK; George 5; George V, Emperor; King George the Fifth; George V of Britain; George V, King of Great Britain; King George V of England; King George V's Silver Jubilee; George V of England; Duke of Cornwall and York; George V, Emperor of India; Coronation of King George V; george v of great britain; george v of united kingdom; king george v of england; george v of scotland; george fifth; george v king of great britain; george 5; king george v of united kingdom; king george v; george v emperor; george v; george v emperor of india; king george v of great britain; king george v s silver jubilee; george v of britain; cultural depictions of george v of united kingdom; king george fifth; coronation of king george v; george v of great britain and ireland; duke of cornwall and york; george v of england; george v of uk; george frederick ernest albert",
+        "generator": "correct_answer",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Agyrpphobia is the persistent fear of doing what?",
+        "output": "Crossing roads; crossing roads",
+        "generator": "correct_answer",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Which President of the USA has daughters named Malia Ann and Natasha or more famously Sasha ?",
+        "output": "Burack obama; Senator Obama; Barack hussein Obama; Barack Obama Jr.; President Barack Hussain Obama; Sen Obama; Senator Barack Obama; Pres. Obama; Obama II; Barack Obama Junior; Barack Hussein Obama Junior; Barack Hussein Obama II; Barack Hussein Obama Jr.; Baraka Obama; Barack Obama; President Barack Hussein Obama; Barac obama; Bacak Obama; Barack H. Obama, Jr; Obama 44; Barack Obama Jr; Barack Hussein Obama, Jr.; Berrack Obama; Barack H. Obama Junior; 44th president of the united states of america; President barack obama; OBAMA; Barack Hussein Obama Jr; President Obama; Barack H. Obama Jr.; Obama, Barack; 2008 Democratic Presidential Nominee; Baraq Obama; Barack H Obama Jr; Barack; Barak h obama; Baraq Hussein Obama; Obama Hussein Barack; Bobama; Barrak Obama; Borrack Obama; O'Bama; Barak Obamba; BARACK OBAMA; Barrack Obama; President Barack H. Obama; Berack Obama; Barackobama; President Barack Hussein Obama II; Barak Obama; Barack II; Barack H. Obama II; Barack Obama, Jr.; Barack H. Obama, Jr.; Obama, Barrack; B. H. Obama; Barack O'Bama; Barak obama; Berak Obama; Barack Obama, Jr; Obahma; Barack H Obama Jr.; Brock Obama; Barack Obama, Junior; President Barack Obama; Barack Hussein Obama, Junior; Barach Obama; Domestic policy of Barack Obama; Barack Hussein; Barakeh Obama; Baruch Obama; Barack Obana; Barack H Obama; B. Hussein Obama; Barak h. obama; Barrack Hussain Obama; Sen. Barack Obama; Presidant barack obama; Barack Obama.; Barrack Hussein Obama; Barack H Obama, Jr.; Barack Obama's; Barack obama; President Barack; Barack obma; Barac Obama; United States President Barack Obama; BHOII; Obama; Barack H Obama, Junior; Brack obama; Obamma; Berrak Obama; Obama Barack; O'bama; Hussein Obama; Brack Obama; Obama, Barack Hussein; Barack H. Obama; Obama's Birthday; Barack H. Obama, Junior; Barak hussein obama; 0bama; Barakc Obama; Barok Oboma; B. Obama; Barack Hussein Obama; Barack Obama II; US President Barack Obama; Barack H Obama Junior; BarackObama; Barack H Obama, Jr; Barack H. Obama Jr; Barack Hussein obama; Obama barack; Barack Hussein Obama, Jr; Barack Obamba; Barack Obbama; OBAMA!; Borack Obama; Barack Obama jr; Barry Obama; Sen. Obama; Barrack obama; Barack Obam; Professor Obama; 44th President of the United States; President obama; Barck Obama; Barock obama; Barack OBama; hussein obama; berak obama; barack obama s; obama barrack; senator barack obama; barack h obama; barack ii; president barack hussain obama; barack obama junior; barack obma; barack obama ii; 0bama; borack obama; barakeh obama; baraq obama; barack o bama; barack; obahma; baraka obama; brock obama; president barack hussein obama; presidant barack obama; 2008 democratic presidential nominee; berrak obama; b obama; obama ii; barrack hussein obama; obama barack hussein; us president barack obama; barck obama; barack obama; obama barack; barac obama; barack h obama ii; senator obama; baraq hussein obama; president obama; barakc obama; barack hussein obama jr; burack obama; sen barack obama; barack obama jr; 44th president of united states of america; berrack obama; barrak obama; baruch obama; barack obamba; barry obama; barrack hussain obama; barak obamba; brack obama; barok oboma; president barack hussein obama ii; barack obana; pres obama; borrack obama; professor obama; barack obam; united states president barack obama; barak hussein obama; barack h obama junior; sen obama; president barack obama; obama 44; obama; barack hussein; bhoii; barack hussein obama junior; b hussein obama; obamma; o bama; barrack obama; barach obama; obama hussein barack; president barack h obama; berack obama; barackobama; domestic policy of barack obama; barak h obama; president barack; bobama; barack hussein obama; barack hussein obama ii; b h obama; bacak obama; 44th president of united states; barack obbama; barock obama; barak obama; obama s birthday; barack h obama jr",
+        "generator": "correct_answer",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Hepatic relates to which organ of the human body?",
+        "output": "Impressio duodenalis; Glisson's sheath; Livers; Fetal liver; Impressio gastrica hepatis; Impressio renalis hepatis; Diaphragmatic surface of liver; Human livers; Suprarenal impression; Impressio colica hepatis; Gastric impression on the liver; Duodenal impression; Calves liver; Colic impression on liver; Capsula fibrosa perivascularis; Renal impression on liver; Gastric impression; Liver; Impressio suprarenalis hepatis; Liver metabolism; Visceral surface of liver; Liver sauce; Glissons capsule; Duodenal impression on liver; Impressio gastrica; Impressio renalis; Couinaud segment; Liver capsule; Impressio duodenalis hepatis; Peritoneal attachments of liver; Iecur; Human liver; Hepatic metabolism; Hepatic; Hepatic production; Gastric impression on liver; Colic impression; Fibrous capsule of glisson; Suprarenal impression on liver; Lobus hepatis; Impressio colica; Hepar; Glisson\u2019s capsule; Human Liver; Glisson's capsule; Jecur; Liver lobe; Liver Tissue Blood Flow; Fibrous capsule of liver; Renal impression; Glissons sheath; Impressio suprarenalis; Fibrous capsule of Glisson; livers; gastric impression; impressio duodenalis hepatis; fetal liver; impressio renalis; hepatic; hepar; renal impression; impressio duodenalis; impressio colica; impressio renalis hepatis; glisson s capsule; renal impression on liver; impressio colica hepatis; glisson s sheath; glissons capsule; liver capsule; visceral surface of liver; colic impression; hepatic production; liver; capsula fibrosa perivascularis; gastric impression on liver; human liver; impressio gastrica; human livers; liver sauce; liver tissue blood flow; hepatic metabolism; impressio gastrica hepatis; duodenal impression on liver; couinaud segment; suprarenal impression; impressio suprarenalis; fibrous capsule of glisson; calves liver; impressio suprarenalis hepatis; glissons sheath; diaphragmatic surface of liver; colic impression on liver; peritoneal attachments of liver; lobus hepatis; fibrous capsule of liver; liver lobe; jecur; suprarenal impression on liver; iecur; liver metabolism; duodenal impression",
+        "generator": "correct_answer",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "The Conservation of Energy is the first \u2026\u2026..what?",
+        "output": "Thermodynamic principles; Three Laws of Thermodynamics; Laws of thermodynamics; Laws of Thermodynamics; Law of Thermodynamics; Four laws of thermodynamics; Law of thermodynamics; Thermodynamic laws; Laws of dynamics; Three laws of thermodynamics; thermodynamic laws; law of thermodynamics; thermodynamic principles; laws of thermodynamics; laws of dynamics; three laws of thermodynamics; four laws of thermodynamics",
+        "generator": "correct_answer",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Which British Prime Minister who came to office in 1894, took to riding around London in a carriage at night in an attempt to cure his lifelong insomnia?",
+        "output": "EARL OF ROSEBERRY or ARCHIBALD PRIMROSE; earl of roseberry or archibald primrose",
+        "generator": "correct_answer",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Hewer is an old occupational name for which trade?",
+        "output": "Ore miner; Miner; Putter (mining); Miners; ore miner; putter mining; miner; miners",
+        "generator": "correct_answer",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "In which Canadian province or state is Cape Race?",
+        "output": "Newfoundland and labrador; Newfoundland, Canada; Province of Newfoundland; Newfoundland and Labrador; Newfoundland And Labrador; New Foundland & Labrador; Neufundland; Newfoundlanders; NEWFOUNDLAND; Nfld; Province of Newfoundland and Labrador; Terre-Neuve (province); Newfoundland & Labrador; NFLD; Newfoundland (province); CA-NL; Terre-Neuve-et-Labrador; Terra Nova, Canada; Newfoundland; Newfoundlander; Nfld.; province of newfoundland and labrador; newfoundland canada; new foundland labrador; newfoundland province; newfoundland and labrador; terre neuve province; terre neuve et labrador; newfoundlanders; newfoundland; neufundland; province of newfoundland; nfld; terra nova canada; newfoundlander; ca nl; newfoundland labrador",
+        "generator": "correct_answer",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Where would you find brackish water?",
+        "output": "At a river mouth or estuary; at river mouth or estuary",
+        "generator": "correct_answer",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "In the British military, a bombadier is equivalent to which other rank?",
+        "output": "Corporal; Acting Corporal; Caporal (military rank); Lance-Duffardar; Corporal(rank); Lance-Duffadar; Lance-dafadar; Ship's Corporal; Cadet Corporal; Senior Police Officer; Corporal (rank); Corporal's guard; Cpl.; lance duffardar; senior police officer; corporal s guard; corporal; acting corporal; lance duffadar; lance dafadar; ship s corporal; cpl; caporal military rank; cadet corporal; corporal rank",
+        "generator": "correct_answer",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "What is the least number of shots that a competitor can take to complete 18 holes of golf?",
+        "output": "18; eighteen; eighteen; 18",
+        "generator": "correct_answer",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "What standard test characteristic has been produced in genetically modified laboratory animals so that researchers can see easily that genetic modification has occurred?",
+        "output": "Glow-in-the-dark; Glow in the Dark; Glow-in-the-dark (disambiguation); Glow in the dark; glow in dark; glow in dark disambiguation",
+        "generator": "correct_answer",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "What colour is \u2018Mr Man\u2019 Mr Strong\u2019s hat?",
+        "output": "Greenishly; Avacado (color); Green (color); Rgb(0, 255, 0); Greenishness; The colour green; Greenest; List of terms associated with the color green; The color green; Green; Pastel green; (0, 255, 0); Green (colour); Greenness; pastel green; avacado color; colour green; color green; greenishly; greenest; greenness; green color; green colour; 0 255 0; greenishness; green; rgb 0 255 0; list of terms associated with color green",
+        "generator": "correct_answer",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "What musician formed a singing duo with Art Garfunkel in 1963?",
+        "output": "Tico and the Triumphs; Jerry Landis; Kathy Chitty; Paul Simon (musician); Paul Simon (singer); Paul Simon (Musician); Paul Frederic Simon; Paul Simon; paul frederic simon; paul simon; paul simon singer; kathy chitty; paul simon musician; jerry landis; tico and triumphs",
+        "generator": "correct_answer",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "What kind of furniture item is sold by IKEA under the product name, Billy?",
+        "output": "Bookshelves or Bookcases; bookshelves or bookcases",
+        "generator": "correct_answer",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "What colour is the gemstone citrine?",
+        "output": "Yellowest; Whiteyellow; Yelow; Yellow color; Yellowishness; Yellower; White-yellow; Rgb(255, 255, 0); Dark yellow; Yellowwhite; Symbolism of yellow; Yellow (color); Yellow (colour); Yellowy; Yellow white; Yellowishly; White yellow; Yellow (Colour); (255, 255, 0); Yellow; Royal yellow; Yellow-white; yellow; yellow color; yellowishness; rgb 255 255 0; yellow white; yellowwhite; royal yellow; whiteyellow; yellowishly; white yellow; yellowy; yellowest; dark yellow; yellow colour; 255 255 0; yelow; yellower; symbolism of yellow",
+        "generator": "correct_answer",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Supposedly a hangover cure, which drink consists of a raw egg, Worcestershire sauce and typically a hot sauce with condiments?",
+        "output": "Prairie Oyster; PRAIRIE OYSTER; Russell deCarle; russell decarle; prairie oyster",
+        "generator": "correct_answer",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "The assassination of Salvatore Maragano led to a major change in what organisation?",
+        "output": "New York mafia; new york mafia",
+        "generator": "correct_answer",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "What is the title of the 1944 film starring Barbara Stanwyck as the wife who seduces an insurance salesman into killing her husband?",
+        "output": "Double indemnity (disambiguation); Double Indemnity; double indemnity disambiguation; double indemnity",
+        "generator": "correct_answer",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Which Wagner opera tells the story of the eponymous swan knight and features The Bridal Chorus?",
+        "output": "Loherangrin; Lorengel; Lohengrin; lohengrin; loherangrin; lorengel",
+        "generator": "correct_answer",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Which semi-aquatic carnivorous mammal of the weasel family has only two living species: the American and the European?",
+        "output": "Mustela vison evergladensis; Minks; Mink (mammal); Mink; minks; mustela vison evergladensis; mink; mink mammal",
+        "generator": "correct_answer",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "What name is given to the lowest commissioned officer in a cavalry regiment, such as Prince Harry?",
+        "output": "The Cornet; CORNET; cornet",
+        "generator": "correct_answer",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Which Greek mythological creature has the body of a lion and the head and wings of an eagle?",
+        "output": "Griphon; Axex; Griffin; Gryyfins; Grifen; Legendary creature griffin; Griffons; Gryphen; Griphons; Grifens; Gryffin; Griffins; Gryphin; Griffin/version 2; Opinicus; Keythong; Opinici; Gryphon (heraldry); Gryphons; gryphin; gryphen; gryyfins; keythong; opinicus; grifen; legendary creature griffin; griffons; opinici; gryphon heraldry; griphon; griffin; axex; griphons; grifens; griffin version 2; gryffin; gryphons; griffins",
+        "generator": "correct_answer",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Primula veris is the Latin name for which common meadow flower?",
+        "output": "Cowslips; Cowslip (disambiguation); COWSLIP; Cow slips; Cows lips; Cows lip; Cowslip; Cow slip; Petty Mullein; cowslip disambiguation; cows lip; cowslip; petty mullein; cow slips; cow slip; cowslips; cows lips",
+        "generator": "correct_answer",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Which element takes its name from the Persian for 'gold coloured'?",
+        "output": "Zirconium salts; Zircronium; Zirconium; Element 40; Zirconium salt; Zr; element 40; zirconium; zr; zirconium salts; zirconium salt; zircronium",
+        "generator": "correct_answer",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "The lead singer of which band is known as Suggs?",
+        "output": "Madness; Madness (film); Phycosis; Madness (disambiguation); Madness (album); Madness (song); madness album; madness film; madness disambiguation; madness song; phycosis; madness",
+        "generator": "correct_answer",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "John and David Lloyd represented Great Britain in the early 1970s at what sport?",
+        "output": "Lawn tennis; Tenniz; TenniS; Tenis; Lawn-Tennis; Professional tennis player; Break point; Tennis; Tennis player; Big tennis; Lawn Tennis; Match point (tennis); Game point; Set point (tennis); Tennis coaching; Match tiebreak; Championship point; \ud83c\udfbe; set point tennis; tennis player; match tiebreak; \ud83c\udfbe; game point; break point; tennis; professional tennis player; big tennis; tenniz; tenis; match point tennis; lawn tennis; tennis coaching; championship point",
+        "generator": "correct_answer",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "What award is given for a wound in the American forces",
+        "output": "Purple Heart; Pruple heart; Purple Heart, Order of the; Purple heart; Order of the Purple Heart; Purple heart winners; Purple Heart Medal; Purple-Heart; purple heart order of; purple heart winners; purple heart; purple heart medal; order of purple heart; pruple heart",
+        "generator": "correct_answer",
+        "dataset": "triviaqa"
+    }
+]

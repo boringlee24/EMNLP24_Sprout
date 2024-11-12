@@ -1,0 +1,2 @@
+,win_rate,standard_error,n_wins,n_wins_base,n_draws,n_total,discrete_win_rate,mode,avg_length
+mmlu_5000_13b,50.0,1.7688728441930626,400,400,0,800,50.0,community,893

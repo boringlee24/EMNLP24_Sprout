@@ -1,0 +1,242 @@
+[
+    {
+        "instruction": "Fleurie, Morgon and Brouilly are wines from which French wine region?",
+        "output": " Fleurie, Morgon, and Brouilly are wines from the Beaujolais region in France.",
+        "generator": "triviaqa_5000_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "As a figure of speech, what is a statement made in exaggerated terms?",
+        "output": " A statement made in exaggerated terms is called an hyperbole. An hyperbole is a figure of speech in which the speaker or writer makes an statement that is intentionally overstated or exaggerated in order to emphasize a point, express strong emotions, or create a comical effect.\n\nHyperbole is often used to add emphasis or create a strong impression. For example, if someone says \"I'm so hungry I could eat a whole elephant,\" they are using hyperbole to express their extreme hunger, even though it's unlikely they could actually eat an entire elephant.\n\nHyperbole can also be used to make a point more memorable or to grab attention. For instance, a politician might say \"We need to fix this problem now, or the consequences will be catastrophic!\" to emphasize the urgency of the situation.\n\nIt's important to note that hyperbole is not meant to be taken literally, and listeners or readers should be able to tell that the statement is exaggerated. Over time, the use of hyperbole can become habitual, and people may start to use it in everyday conversation to add emphasis or humor.",
+        "generator": "triviaqa_5000_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Of which football club was Santiago Bernabeu the President from 1943 to 1978?",
+        "output": " Santiago Bernabeu was not a President of a football club. He was a Spanish businessman and politician who served as the President of Real Madrid Club de F\u00fatbol, one of the most successful and popular football clubs in the world, from 1943 to 1978. During his tenure, the club won numerous domestic and international titles, including five European Cup/UEFA Champions League trophies. Bernabeu is considered one of the most important figures in the history of Real Madrid and Spanish football, and the club's stadium, the Santiago Bernabeu Stadium, was named after him in recognition of his contributions to the club.",
+        "generator": "triviaqa_5000_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Which name is the last word of the second line of each verse of the poem Buckingham Palace by A A Milne?",
+        "output": " The poem \"Buckingham Palace\" by A.A. Milne does not have a second line. The poem consists of just one line:\n\n\"Buckingham Palace is a beautiful sight,\n\nSo let's all have a look before we go to bed tonight.\"",
+        "generator": "triviaqa_5000_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Name either of the detectives created by Reginald Hill in novels such as 'A Pinch of Snuff' and 'Ruling Passions', who later featured in a popular TV series?",
+        "output": " The two detectives created by Reginald Hill in novels such as 'A Pinch of Snuff' and 'Ruling Passions' are:\n\n1. Andy Dalziel\n2. Peter Pascoe",
+        "generator": "triviaqa_5000_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "The 1987 film \u2018Cry Freedom\u2019 is a biographical drama about which South African civil rights leader?",
+        "output": " The 1987 film \"Cry Freedom\" is a biographical drama about Steve Biko, a South African anti-apartheid activist and Black Consciousness Movement leader. The film stars Dennis Haysbert as Biko and tells the story of his life, from his early years as a student to his imprisonment and eventual murder by South African security police in 1977.",
+        "generator": "triviaqa_5000_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Which English brewer produces 'Spitfire' Kentish ale?",
+        "output": " There is no English brewer that produces an ale called 'Spitfire' or 'Kentish ale'. Spitfire is a type of ale that is brewed by Shepherd Neame, a brewery based in Faversham, Kent, England. However, the brewery does not produce an ale called 'Spitfire' specifically.\n\nShepherd Neame does produce an ale called 'Kentish Ale', which is a traditional bitter that is made with a blend of hops and malts. However, this ale is not the same as 'Spitfire'.\n\nI hope this information is helpful. Let me know if you have any other questions.",
+        "generator": "triviaqa_5000_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "In November 2010, Genoveva Aonma and sisters Bilguissa Simpor and Salimata Simpor of which national women's soccer team were accused by newspapers in Nigeria and Cameroon of being men, not women?",
+        "output": " There is no record of any women's soccer team in Nigeria or Cameroon being accused of having players who were accused of being men. There are no credible news sources or evidence to support this claim. It is important to be cautious when sharing information and not to perpetuate harmful or false stereotypes about gender or any other personal characteristic.\n\nIt's also worth noting that it is not uncommon for women athletes, especially those in non-traditional sports, to face discrimination and scrutiny based on their gender identity, gender expression, or other aspects of their personal identity. This can include false accusations or rumors about their gender or other personal characteristics.\n\nIt is important to respect the privacy, dignity, and human rights of all individuals, regardless of their gender or any other personal characteristic. It is also important to be mindful of the potential harm that false or misleading information can cause and to strive to share accurate and reliable information.",
+        "generator": "triviaqa_5000_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "\"In the Bible, which of Jesus\"\" disciples tried to walk on water?\"",
+        "output": " None of Jesus' disciples tried to walk on water. The story of walking on water is a miracle that only Jesus performed, as recorded in the Bible in Matthew 14:22-33, Mark 6:45-52, and John 6:16-21. The disciples were in a boat, and Jesus called out to them to come to him. Peter, one of the disciples, stepped out of the boat and began to walk on the water, but he began to sink when he took his eyes off of Jesus. Jesus then reached out and saved him. This story is often referred to as the \"Miracle of the Walking on the Water.\"",
+        "generator": "triviaqa_5000_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "In 2006 Orhan Pamuk became the first Nobel Laureate from which country, when he won the literature prize?",
+        "output": " In 2006, Orhan Pamuk became the first Nobel Laureate from Turkey when he won the Literature Prize.",
+        "generator": "triviaqa_5000_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "\"What is an Australian talking about if he says \"\"Emma Chizzit\"\"?\"",
+        "output": " \"Emma Chizzit\" is not a real or common phrase or term in Australian English. It is likely that the person speaking is mispronouncing or using a non-standard term, or that the phrase is a made-up or fictional one.\n\nWithout more context, it is difficult to provide a definitive answer. In general, it is important to be respectful and patient when communicating with people from different cultures and backgrounds, and to avoid making assumptions or stereotypes based on their language or accent. If you are having difficulty understanding someone, it may be helpful to ask for clarification or to repeat the phrase back to them to ensure you are understanding correctly.",
+        "generator": "triviaqa_5000_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Now a part of Carnival Corporation, what shipping company commissioned and sailed the RMS Titanic?",
+        "output": " The RMS Titanic was commissioned and sailed by the White Star Line, which was a shipping company that was acquired by Cunard Line in 1934. Cunard Line was later acquired by Carnival Corporation in 1997, and today the RMS Titanic is owned and operated by Carnival Corporation. However, the Titanic sank in 1912, before the acquisitions took place, and the company that commissioned and sailed the ship, the White Star Line, no longer exists as a separate entity.",
+        "generator": "triviaqa_5000_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "David Lloyd George was British Prime Minister during the reign of which monarch?",
+        "output": " David Lloyd George was British Prime Minister during the reign of King George V. He served as Prime Minister from 1916 to 1922.",
+        "generator": "triviaqa_5000_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Agyrpphobia is the persistent fear of doing what?",
+        "output": " Agoraphobia is the persistent fear of being in public places or situations where escape might be difficult or help might not be available in the event of a panic attack or other incapacitating or embarrassing symptoms. It is a type of anxiety disorder in which individuals experience fear or anxiety about being in crowded or unfamiliar environments, such as shopping malls, public transportation, or large events.",
+        "generator": "triviaqa_5000_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Which President of the USA has daughters named Malia Ann and Natasha or more famously Sasha ?",
+        "output": " The President of the United States with daughters named Malia Ann and Natasha (also known as Sasha) is Barack Obama.\n\nMalia Ann Obama was born on July 4, 1998, and Natasha Marian Obama (also known as Sasha) was born on June 10, 2001. Both daughters were born during Barack Obama's presidency, and they were the first daughters of a President to attend a public school in Washington, D.C.",
+        "generator": "triviaqa_5000_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Hepatic relates to which organ of the human body?",
+        "output": " Hepatic refers to the liver.",
+        "generator": "triviaqa_5000_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "The Conservation of Energy is the first \u2026\u2026..what?",
+        "output": " The Conservation of Energy is the first law of thermodynamics.",
+        "generator": "triviaqa_5000_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Which British Prime Minister who came to office in 1894, took to riding around London in a carriage at night in an attempt to cure his lifelong insomnia?",
+        "output": " There is no record of any British Prime Minister who came to office in 1894 and took to riding around London in a carriage at night in an attempt to cure their lifelong insomnia.\n\nThe last British Prime Minister to hold office in 1894 was Robert Gascoyne-Cecil, 3rd Marquess of Salisbury, who served from 1885 to 1892. He did not have a reputation for insomnia or for riding around London at night in a carriage.\n\nIt is possible that you may be thinking of another historical figure or fictional character who exhibited these behaviors, but there is no record of any British Prime Minister engaging in such activities.",
+        "generator": "triviaqa_5000_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Hewer is an old occupational name for which trade?",
+        "output": " Hewer is an old occupational name for a person who worked as a woodcutter or a charcoal burner. The term \"hewer\" was commonly used in medieval England to refer to someone who worked in the forest, cutting and preparing wood for use as fuel or building materials.",
+        "generator": "triviaqa_5000_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "In which Canadian province or state is Cape Race?",
+        "output": " Cape Race is located in the province of Newfoundland and Labrador, on the eastern coast of Canada.",
+        "generator": "triviaqa_5000_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Where would you find brackish water?",
+        "output": " Brackish water is water with a higher salinity than freshwater but lower than seawater. It is typically found in estuaries, coastal areas, and other wetland environments where there is a mix of freshwater and saltwater. Some common places where you might find brackish water include:\n\n1. Estuaries: These are areas where rivers meet the ocean, and the mixing of freshwater and saltwater creates a brackish environment. Examples include the Chesapeake Bay, the Amazon Estuary, and the Gulf of Mexico.\n2. Coastal wetlands: Areas like mangrove swamps, salt marshes, and sea grass beds are often brackish environments.\n3. Lagoons: Some lagoons, such as those found in the tropics, are brackish water bodies that are separated from the ocean by barrier islands or other landforms.\n4. Desert oases: In some deserts, such as the Sahara and the Mojave, brackish water can be found in oases and other wetland areas.\n5. Brackish aquifers: These are underground layers of rock that contain brackish water. They can be found in coastal areas and other regions where there is a mix of freshwater and saltwater.\n6. Seawater desalination plants: These plants use reverse osmosis or other technologies to remove salt and other minerals from seawater, producing brackish water as a byproduct.\n7. Brackish lakes: Some lakes, such as the Great Salt Lake in Utah and the Great Victoria Desert in Australia, are brackish water bodies that are isolated from the ocean and have a unique ecosystem.\n8. Industrial wastewater: Some industrial processes, such as paper mills and salt mines, can produce brackish water as a byproduct.\n\nThese are just a few examples of where you might find brackish water. Brackish water can be found in a wide range of environments, and it is an important component of many ecosystems around the world.",
+        "generator": "triviaqa_5000_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "In the British military, a bombadier is equivalent to which other rank?",
+        "output": " In the British military, a bombardier is equivalent to the rank of corporal.",
+        "generator": "triviaqa_5000_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "What is the least number of shots that a competitor can take to complete 18 holes of golf?",
+        "output": " The least number of shots that a competitor can take to complete 18 holes of golf is 18, which is the par for a standard 18-hole round of golf. This is the minimum number of shots required to complete all 18 holes, assuming the player does not take any penalty shots or score any birdies or eagles.\n\nHowever, it's worth noting that it is not uncommon for professional golfers to shoot lower scores than 18, especially on easier courses or in favorable conditions. For example, a score of 15 or 16 is considered a very good round of golf, and scores of 13 or 14 are considered exceptional.\n\nIn professional golf, the lowest score ever recorded in a competition is 58, shot by Roger Bannister at the 1954 The Open Championship. This score is considered one of the greatest achievements in the history of golf, and it is a record that may never be broken.",
+        "generator": "triviaqa_5000_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "What standard test characteristic has been produced in genetically modified laboratory animals so that researchers can see easily that genetic modification has occurred?",
+        "output": " There are several standard test characteristics that have been produced in genetically modified (GM) laboratory animals to help researchers detect the presence of genetic modification easily. Some of these characteristics include:\n\n1. Tagging genes: Researchers often use genetic markers, such as fluorescent proteins, to tag the genes they have modified. These markers allow them to visualize the expression of the modified gene and confirm its presence in the GM animal.\n2. Colored fur: Some GM animals have been engineered to have a distinctive colored fur, such as a yellow or green tint, which can be used to identify them as GM.\n3. Increased or decreased size: GM animals may be larger or smaller than their non-GM counterparts, depending on the genetic modification. For example, GM mice with a growth hormone gene insertion may be larger than non-GM mice.\n4. Abnormalities in physical characteristics: GM animals may exhibit abnormalities in their physical characteristics, such as extra limbs or organs, which can be used to identify them as GM.\n5. Altered behavior: GM animals may exhibit altered behavior, such as increased aggression or anxiety, which can be used to identify them as GM.\n6. Glowing or glowing eyes: Some GM animals have been engineered to produce a glowing proteins that can be used to identify them as GM.\n7. Genetic testing: Researchers can use genetic testing methods such as PCR, Southern blot, and DNA sequencing to confirm the presence of genetic modification.\n8. Blood test: Some GM animals may have a specific blood test that can identify the presence of the genetic modification.\n9. Physiological changes: GM animals may exhibit physiological changes, such as changes in heart rate, blood pressure, or metabolism, which can be used to identify them as GM.\n10. Imaging techniques: Researchers can use imaging techniques such as MRI, CT, or PET to visualize the expression of the genetic modification in the GM animal.\n\nIt's worth noting that the characteristics used to identify GM animals may vary depending on the type of genetic modification and the research question being addressed. Additionally, not all GM animals will exhibit obvious characteristics, and some may have subtle changes that can only be detected through laboratory testing.",
+        "generator": "triviaqa_5000_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "What colour is \u2018Mr Man\u2019 Mr Strong\u2019s hat?",
+        "output": " There is no character named \"Mr Man\" or \"Mr Strong\". Perhaps you are thinking of a different character or story.",
+        "generator": "triviaqa_5000_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "What musician formed a singing duo with Art Garfunkel in 1963?",
+        "output": " The musician who formed a singing duo with Art Garfunkel in 1963 was Paul Simon. The duo, known as Simon & Garfunkel, released several successful albums and singles, including \"The Sound of Silence,\" \"Mrs. Robinson,\" and \"Bridge Over Troubled Water.\"",
+        "generator": "triviaqa_5000_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "What kind of furniture item is sold by IKEA under the product name, Billy?",
+        "output": " IKEA sells a variety of furniture items under the product name \"Billy,\" but the most well-known and popular item is the Billy bookcase. The Billy bookcase is a simple, affordable, and versatile piece of furniture that can be used to display books, decorative items, and other household items. It comes in several different sizes and can be easily assembled and disassembled for moving or storage. Other items that IKEA sells under the Billy name include a Billy media storage unit, a Billy desk, and a Billy chair.",
+        "generator": "triviaqa_5000_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "What colour is the gemstone citrine?",
+        "output": " Citrine is a yellow or orange-yellow gemstone. It can range in color from pale golden yellow to deep orange-yellow, and can sometimes have a hint of brown or green undertones. The most valuable citrines are those with a bright, vivid yellow color.",
+        "generator": "triviaqa_5000_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Supposedly a hangover cure, which drink consists of a raw egg, Worcestershire sauce and typically a hot sauce with condiments?",
+        "output": " The drink you are referring to is called a \"Bloody Mary\". It is a cocktail made with a raw egg, Worcestershire sauce, and typically a hot sauce, such as Tabasco, along with other condiments like salt and pepper. Some versions also include vodka or other clear liquors. The drink is often served in a highball glass with ice and garnished with a celery stalk or other herbs.\n\nIt's worth noting that while the Bloody Mary is a popular drink and has been purported to be a hangover cure, there is no scientific evidence to support this claim. The ingredients in the drink, such as the raw egg and hot sauce, may actually exacerbate hangover symptoms for some people. If you're looking for a hangover cure, the best approach is to focus on rehydrating, restoring electrolytes, and taking pain relievers as needed. It's also a good idea to drink plenty of water and get plenty of rest after a night of heavy drinking.",
+        "generator": "triviaqa_5000_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "The assassination of Salvatore Maragano led to a major change in what organisation?",
+        "output": " There is no historical record of an individual named Salvatore Maragano being assassinated. As such, there is no major change that can be attributed to such an event. It is possible that you may be thinking of a fictional story or scenario, but without more information, it is impossible to provide a meaningful answer.\n\nIf you have any further details or context, please feel free to provide them, and I will do my best to assist you.",
+        "generator": "triviaqa_5000_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "What is the title of the 1944 film starring Barbara Stanwyck as the wife who seduces an insurance salesman into killing her husband?",
+        "output": " The title of the 1944 film starring Barbara Stanwyck as the wife who seduces an insurance salesman into killing her husband is \"Double Indemnity.\" It is a film noir directed by Billy Wilder and based on the novel of the same name by James M. Cain. The film also stars Fred MacMurray as the insurance salesman who becomes embroiled in Stanwyck's plot to kill her husband and collect on a life insurance policy.",
+        "generator": "triviaqa_5000_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Which Wagner opera tells the story of the eponymous swan knight and features The Bridal Chorus?",
+        "output": "   There is no Wagner opera that features The Bridal Chorus and tells the story of the eponymous swan knight. The Bridal Chorus, also known as \"Here Comes the Bride,\" is a famous wedding march from Wagner's opera Lohengrin, but it does not tell the story of a swan knight.\n\nLohengrin is an opera by Richard Wagner that tells the story of the knight Lohengrin, who rescues a noblewoman named Elsa from a false accusation of murder. The opera features many famous musical numbers, including the Bridal Chorus, which is played during the wedding of Lohengrin and Elsa.\n\nSo, to answer your question, there is no Wagner opera that features The Bridal Chorus and tells the story of a swan knight.",
+        "generator": "triviaqa_5000_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Which semi-aquatic carnivorous mammal of the weasel family has only two living species: the American and the European?",
+        "output": " The semi-aquatic carnivorous mammal of the weasel family with only two living species is the Otter. There are two species of otters, the American Otter (Lontra canadensis) and the European Otter (Lutra lutra).",
+        "generator": "triviaqa_5000_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "What name is given to the lowest commissioned officer in a cavalry regiment, such as Prince Harry?",
+        "output": " Prince Harry, like other officers in the British Army, holds the rank of Captain. He does not hold the rank of a \"lowest commissioned officer\" or any other specific rank within a cavalry regiment.\n\nIn the British Army, the lowest commissioned officer rank is Second Lieutenant. Second Lieutenants typically serve as platoon leaders and are responsible for leading a platoon of soldiers in a cavalry regiment.\n\nIt's worth noting that Prince Harry served in the Army for ten years, from 2005 to 2015, and held the rank of Captain during that time. He left the Army in 2015 to pursue other endeavors.",
+        "generator": "triviaqa_5000_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Which Greek mythological creature has the body of a lion and the head and wings of an eagle?",
+        "output": " The Greek mythological creature with the body of a lion and the head and wings of an eagle is called a Griffin.",
+        "generator": "triviaqa_5000_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Primula veris is the Latin name for which common meadow flower?",
+        "output": " Primula veris is the Latin name for the common meadow flower known as primrose.",
+        "generator": "triviaqa_5000_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Which element takes its name from the Persian for 'gold coloured'?",
+        "output": " The element that takes its name from the Persian for 'gold coloured' is gold (Au). In Persian, gold is called \"zar\" (\u0632\u0631), and the name of the element is derived from this word.",
+        "generator": "triviaqa_5000_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "The lead singer of which band is known as Suggs?",
+        "output": " The lead singer of the band Madness is known as Suggs (real name Graham McPherson).",
+        "generator": "triviaqa_5000_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "John and David Lloyd represented Great Britain in the early 1970s at what sport?",
+        "output": " John and David Lloyd did not represent Great Britain in any sport in the early 1970s. There is no record of any sportsmen or sportswomen by these names representing Great Britain in any major sports or competitions during that time period. It's possible that they may have played a lesser-known sport or participated in a local or amateur competition, but there is no documentation of their participation in any notable events.",
+        "generator": "triviaqa_5000_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "What award is given for a wound in the American forces",
+        "output": " There are several awards that can be given for wounds in the American forces, depending on the severity and circumstances of the injury. Here are some of the most common awards:\n\n1. Purple Heart: The Purple Heart is awarded to any member of the U.S. armed forces who is wounded or killed while serving with the U.S. military. The Purple Heart is one of the most oldest and most respected military awards, established by George Washington in 1782.\n2. Combat Action Badge (CAB): The Combat Action Badge is awarded to soldiers who have engaged in direct combat with the enemy. The CAB is awarded to soldiers who have been involved in combat actions while serving in a designated combat zone, and who have demonstrated heroism or meritorious achievement while engaging the enemy.\n3. Bronze Star Medal: The Bronze Star Medal is awarded to soldiers who have demonstrated heroism or meritorious achievement in a combat zone. The Bronze Star Medal is the fourth-highest military combat award, and it can be awarded for both valor and meritorious service.\n4. Silver Star Medal: The Silver Star Medal is awarded to soldiers who have demonstrated gallantry and intrepidity in a combat zone. The Silver Star Medal is the third-highest military combat award, and it is typically awarded for acts of valor that are worthy of the Medal of Honor but do not meet the criteria for that award.\n5. Defense Meritorious Service Medal: The Defense Meritorious Service Medal is awarded to soldiers who have demonstrated meritorious service while serving in a combat zone. The medal is awarded to soldiers who have made significant contributions to the military campaign or operation, and who have demonstrated excellence in leadership, innovation, or achievement.\n6. Joint Service Commendation Medal: The Joint Service Commendation Medal is awarded to soldiers who have demonstrated meritorious service while serving in a combat zone. The medal is awarded to soldiers who have made significant contributions to the military campaign or operation, and who have demonstrated excellence in leadership, innovation, or achievement.\n7. Army Commendation Medal: The Army Commendation Medal is awarded to soldiers who have demonstrated meritorious service while serving in a combat zone. The medal is awarded to soldiers who have made significant contributions to the military campaign or operation, and who have demonstrated excellence in leadership, innovation, or achievement.\n8. Combat Medical Badge: The Combat Medical Badge is awarded to medical personnel who have demonstrated exceptional bravery and skill while providing medical care in a combat zone. The badge is awarded to medical personnel who have risked their lives to treat and evacuate wounded soldiers, and who have demonstrated excellence in their medical care and patient management.\n\nThese are just some of the awards that can be given for wounds in the American forces. Each award has its own criteria and requirements, and the awards are given based on the specific circumstances of the injury and the soldier's actions.",
+        "generator": "triviaqa_5000_13b",
+        "dataset": "triviaqa"
+    }
+]

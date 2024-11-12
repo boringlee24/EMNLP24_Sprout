@@ -1,0 +1,2 @@
+,win_rate,standard_error,n_wins,n_wins_base,n_draws,n_total,discrete_win_rate,mode,avg_length
+llama2-7b-chat,49.5,1.7687843983396512,396,404,0,800,49.5,community,727

@@ -1,0 +1,62 @@
+[
+    {
+        "instruction": "Fleurie, Morgon and Brouilly are wines from which French wine region?",
+        "output": " Beaujolais.",
+        "generator": "triviaqa_5000_brief_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "As a figure of speech, what is a statement made in exaggerated terms?",
+        "output": " A statement made in exaggerated terms is called an hyperbole.",
+        "generator": "triviaqa_5000_brief_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Of which football club was Santiago Bernabeu the President from 1943 to 1978?",
+        "output": " Real Madrid.",
+        "generator": "triviaqa_5000_brief_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Which name is the last word of the second line of each verse of the poem Buckingham Palace by A A Milne?",
+        "output": " Sure! Here are the last words of the second line of each verse of the poem \"Buckingham Palace\" by A.A. Milne:\n\nVerse 1: Palace\nVerse 2: Time\nVerse 3: Lions\nVerse 4: Place",
+        "generator": "triviaqa_5000_brief_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Name either of the detectives created by Reginald Hill in novels such as 'A Pinch of Snuff' and 'Ruling Passions', who later featured in a popular TV series?",
+        "output": " Sure! The detective created by Reginald Hill is Dalziel.",
+        "generator": "triviaqa_5000_brief_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "The 1987 film \u2018Cry Freedom\u2019 is a biographical drama about which South African civil rights leader?",
+        "output": " Sure! The answer is Steve Biko.",
+        "generator": "triviaqa_5000_brief_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Which English brewer produces 'Spitfire' Kentish ale?",
+        "output": " Shepherd Neame.",
+        "generator": "triviaqa_5000_brief_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "In November 2010, Genoveva Aonma and sisters Bilguissa Simpor and Salimata Simpor of which national women's soccer team were accused by newspapers in Nigeria and Cameroon of being men, not women?",
+        "output": " The national women's soccer team accused of being men in November 2010 were the Cameroonian national team.",
+        "generator": "triviaqa_5000_brief_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "\"In the Bible, which of Jesus\"\" disciples tried to walk on water?\"",
+        "output": " Peter.",
+        "generator": "triviaqa_5000_brief_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "In 2006 Orhan Pamuk became the first Nobel Laureate from which country, when he won the literature prize?",
+        "output": " Turkey.",
+        "generator": "triviaqa_5000_brief_13b",
+        "dataset": "triviaqa"
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "instruction": "Fleurie, Morgon and Brouilly are wines from which French wine region?",
+        "output": " Beaujolais.",
+        "generator": "triviaqa_5000_brief+_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "As a figure of speech, what is a statement made in exaggerated terms?",
+        "output": " An exaggeration.",
+        "generator": "triviaqa_5000_brief+_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Of which football club was Santiago Bernabeu the President from 1943 to 1978?",
+        "output": " Real Madrid.",
+        "generator": "triviaqa_5000_brief+_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Which name is the last word of the second line of each verse of the poem Buckingham Palace by A A Milne?",
+        "output": " Sure! Here are the last words of the second line of each verse of the poem \"Buckingham Palace\" by A.A. Milne:\n\nVerse 1: \"garden\"\nVerse 2: \"place\"\nVerse 3: \"show\"\nVerse 4: \"go\"",
+        "generator": "triviaqa_5000_brief+_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Name either of the detectives created by Reginald Hill in novels such as 'A Pinch of Snuff' and 'Ruling Passions', who later featured in a popular TV series?",
+        "output": " Sure! The detective created by Reginald Hill is named Joe Sixsmith.",
+        "generator": "triviaqa_5000_brief+_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "The 1987 film \u2018Cry Freedom\u2019 is a biographical drama about which South African civil rights leader?",
+        "output": " Ah, \"Cry Freedom\"! That's a powerful movie about Nelson Mandela.",
+        "generator": "triviaqa_5000_brief+_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Which English brewer produces 'Spitfire' Kentish ale?",
+        "output": " Shepherd Neame.",
+        "generator": "triviaqa_5000_brief+_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "In November 2010, Genoveva Aonma and sisters Bilguissa Simpor and Salimata Simpor of which national women's soccer team were accused by newspapers in Nigeria and Cameroon of being men, not women?",
+        "output": " The national women's soccer team accused of being men, not women in November 2010 were the Cameroonian women's national team.",
+        "generator": "triviaqa_5000_brief+_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "\"In the Bible, which of Jesus\"\" disciples tried to walk on water?\"",
+        "output": " Peter.",
+        "generator": "triviaqa_5000_brief+_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "In 2006 Orhan Pamuk became the first Nobel Laureate from which country, when he won the literature prize?",
+        "output": " Turkey.",
+        "generator": "triviaqa_5000_brief+_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "\"What is an Australian talking about if he says \"\"Emma Chizzit\"\"?\"",
+        "output": " \"Emma Chizzit\" is a made-up word, possibly a nonsensical phrase or a inside joke.",
+        "generator": "triviaqa_5000_brief+_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Now a part of Carnival Corporation, what shipping company commissioned and sailed the RMS Titanic?",
+        "output": " White Star Line.",
+        "generator": "triviaqa_5000_brief+_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "David Lloyd George was British Prime Minister during the reign of which monarch?",
+        "output": " King George V.",
+        "generator": "triviaqa_5000_brief+_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Agyrpphobia is the persistent fear of doing what?",
+        "output": " Public speaking.",
+        "generator": "triviaqa_5000_brief+_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Which President of the USA has daughters named Malia Ann and Natasha or more famously Sasha ?",
+        "output": " Barack Obama.",
+        "generator": "triviaqa_5000_brief+_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Hepatic relates to which organ of the human body?",
+        "output": " Liver.",
+        "generator": "triviaqa_5000_brief+_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "The Conservation of Energy is the first \u2026\u2026..what?",
+        "output": " First law of thermodynamics.",
+        "generator": "triviaqa_5000_brief+_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Which British Prime Minister who came to office in 1894, took to riding around London in a carriage at night in an attempt to cure his lifelong insomnia?",
+        "output": " Robert Cecil, 3rd Marquess of Salisbury.",
+        "generator": "triviaqa_5000_brief+_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Hewer is an old occupational name for which trade?",
+        "output": " Butcher.",
+        "generator": "triviaqa_5000_brief+_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "In which Canadian province or state is Cape Race?",
+        "output": " Newfoundland.",
+        "generator": "triviaqa_5000_brief+_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Where would you find brackish water?",
+        "output": " Brackish water can be found in estuaries, coastal areas, and near rivers.",
+        "generator": "triviaqa_5000_brief+_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "In the British military, a bombadier is equivalent to which other rank?",
+        "output": " Bombadier is equivalent to Corporal in the British military.",
+        "generator": "triviaqa_5000_brief+_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "What is the least number of shots that a competitor can take to complete 18 holes of golf?",
+        "output": " The least number of shots to complete 18 holes of golf is 72.",
+        "generator": "triviaqa_5000_brief+_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "What standard test characteristic has been produced in genetically modified laboratory animals so that researchers can see easily that genetic modification has occurred?",
+        "output": " Green fluorescent protein (GFP).",
+        "generator": "triviaqa_5000_brief+_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "What colour is \u2018Mr Man\u2019 Mr Strong\u2019s hat?",
+        "output": " Red.",
+        "generator": "triviaqa_5000_brief+_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "What musician formed a singing duo with Art Garfunkel in 1963?",
+        "output": " Paul Simon.",
+        "generator": "triviaqa_5000_brief+_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "What kind of furniture item is sold by IKEA under the product name, Billy?",
+        "output": " Billy is a bookcase sold by IKEA.",
+        "generator": "triviaqa_5000_brief+_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "What colour is the gemstone citrine?",
+        "output": " Citrine: yellow.",
+        "generator": "triviaqa_5000_brief+_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Supposedly a hangover cure, which drink consists of a raw egg, Worcestershire sauce and typically a hot sauce with condiments?",
+        "output": " Bloody Mary.",
+        "generator": "triviaqa_5000_brief+_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "The assassination of Salvatore Maragano led to a major change in what organisation?",
+        "output": " The assassination of Salvatore Maragano led to a major change in the Bonanno crime family.",
+        "generator": "triviaqa_5000_brief+_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "What is the title of the 1944 film starring Barbara Stanwyck as the wife who seduces an insurance salesman into killing her husband?",
+        "output": " The title of the 1944 film is \"Double Indemnity.\"",
+        "generator": "triviaqa_5000_brief+_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Which Wagner opera tells the story of the eponymous swan knight and features The Bridal Chorus?",
+        "output": " Lohengrin.",
+        "generator": "triviaqa_5000_brief+_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Which semi-aquatic carnivorous mammal of the weasel family has only two living species: the American and the European?",
+        "output": " Otter.",
+        "generator": "triviaqa_5000_brief+_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "What name is given to the lowest commissioned officer in a cavalry regiment, such as Prince Harry?",
+        "output": " Cornet.",
+        "generator": "triviaqa_5000_brief+_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Which Greek mythological creature has the body of a lion and the head and wings of an eagle?",
+        "output": " Griffin.",
+        "generator": "triviaqa_5000_brief+_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Primula veris is the Latin name for which common meadow flower?",
+        "output": " Primula veris is the Latin name for primrose.",
+        "generator": "triviaqa_5000_brief+_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Which element takes its name from the Persian for 'gold coloured'?",
+        "output": " Gold.",
+        "generator": "triviaqa_5000_brief+_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "The lead singer of which band is known as Suggs?",
+        "output": " Suggs is the lead singer of Madness.",
+        "generator": "triviaqa_5000_brief+_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "John and David Lloyd represented Great Britain in the early 1970s at what sport?",
+        "output": " Tennis.",
+        "generator": "triviaqa_5000_brief+_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "What award is given for a wound in the American forces",
+        "output": " Purple Heart.",
+        "generator": "triviaqa_5000_brief+_13b",
+        "dataset": "triviaqa"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "instruction": "Fleurie, Morgon and Brouilly are wines from which French wine region?",
+        "output": " Fleurie, Morgon, and Brouilly are wines from the Beaujolais region in France.",
+        "generator": "triviaqa_5000_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "As a figure of speech, what is a statement made in exaggerated terms?",
+        "output": " A statement made in exaggerated terms is called an hyperbole. An hyperbole is a figure of speech in which the speaker or writer makes an statement that is intentionally overstated or exaggerated in order to emphasize a point, express strong emotions, or create a comical effect.\n\nHyperbole is often used to add emphasis or create a strong impression. For example, if someone says \"I'm so hungry I could eat a whole elephant,\" they are using hyperbole to express their extreme hunger, even though it's unlikely they could actually eat an entire elephant.\n\nHyperbole can also be used to make a point more memorable or to grab attention. For instance, a politician might say \"We need to fix this problem now, or the consequences will be catastrophic!\" to emphasize the urgency of the situation.\n\nIt's important to note that hyperbole is not meant to be taken literally, and listeners or readers should be able to tell that the statement is exaggerated. Over time, the use of hyperbole can become habitual, and people may start to use it in everyday conversation to add emphasis or humor.",
+        "generator": "triviaqa_5000_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Of which football club was Santiago Bernabeu the President from 1943 to 1978?",
+        "output": " Santiago Bernabeu was not a President of a football club. He was a Spanish businessman and politician who served as the President of Real Madrid Club de F\u00fatbol, one of the most successful and popular football clubs in the world, from 1943 to 1978. During his tenure, the club won numerous domestic and international titles, including five European Cup/UEFA Champions League trophies. Bernabeu is considered one of the most important figures in the history of Real Madrid and Spanish football, and the club's stadium, the Santiago Bernabeu Stadium, was named after him in recognition of his contributions to the club.",
+        "generator": "triviaqa_5000_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Which name is the last word of the second line of each verse of the poem Buckingham Palace by A A Milne?",
+        "output": " The poem \"Buckingham Palace\" by A.A. Milne does not have a second line. The poem consists of just one line:\n\n\"Buckingham Palace is a beautiful sight,\n\nSo let's all have a look before we go to bed tonight.\"",
+        "generator": "triviaqa_5000_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Name either of the detectives created by Reginald Hill in novels such as 'A Pinch of Snuff' and 'Ruling Passions', who later featured in a popular TV series?",
+        "output": " The two detectives created by Reginald Hill in novels such as 'A Pinch of Snuff' and 'Ruling Passions' are:\n\n1. Andy Dalziel\n2. Peter Pascoe",
+        "generator": "triviaqa_5000_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "The 1987 film \u2018Cry Freedom\u2019 is a biographical drama about which South African civil rights leader?",
+        "output": " The 1987 film \"Cry Freedom\" is a biographical drama about Steve Biko, a South African anti-apartheid activist and Black Consciousness Movement leader. The film stars Dennis Haysbert as Biko and tells the story of his life, from his early years as a student to his imprisonment and eventual murder by South African security police in 1977.",
+        "generator": "triviaqa_5000_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "Which English brewer produces 'Spitfire' Kentish ale?",
+        "output": " There is no English brewer that produces an ale called 'Spitfire' or 'Kentish ale'. Spitfire is a type of ale that is brewed by Shepherd Neame, a brewery based in Faversham, Kent, England. However, the brewery does not produce an ale called 'Spitfire' specifically.\n\nShepherd Neame does produce an ale called 'Kentish Ale', which is a traditional bitter that is made with a blend of hops and malts. However, this ale is not the same as 'Spitfire'.\n\nI hope this information is helpful. Let me know if you have any other questions.",
+        "generator": "triviaqa_5000_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "In November 2010, Genoveva Aonma and sisters Bilguissa Simpor and Salimata Simpor of which national women's soccer team were accused by newspapers in Nigeria and Cameroon of being men, not women?",
+        "output": " There is no record of any women's soccer team in Nigeria or Cameroon being accused of having players who were accused of being men. There are no credible news sources or evidence to support this claim. It is important to be cautious when sharing information and not to perpetuate harmful or false stereotypes about gender or any other personal characteristic.\n\nIt's also worth noting that it is not uncommon for women athletes, especially those in non-traditional sports, to face discrimination and scrutiny based on their gender identity, gender expression, or other aspects of their personal identity. This can include false accusations or rumors about their gender or other personal characteristics.\n\nIt is important to respect the privacy, dignity, and human rights of all individuals, regardless of their gender or any other personal characteristic. It is also important to be mindful of the potential harm that false or misleading information can cause and to strive to share accurate and reliable information.",
+        "generator": "triviaqa_5000_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "\"In the Bible, which of Jesus\"\" disciples tried to walk on water?\"",
+        "output": " None of Jesus' disciples tried to walk on water. The story of walking on water is a miracle that only Jesus performed, as recorded in the Bible in Matthew 14:22-33, Mark 6:45-52, and John 6:16-21. The disciples were in a boat, and Jesus called out to them to come to him. Peter, one of the disciples, stepped out of the boat and began to walk on the water, but he began to sink when he took his eyes off of Jesus. Jesus then reached out and saved him. This story is often referred to as the \"Miracle of the Walking on the Water.\"",
+        "generator": "triviaqa_5000_13b",
+        "dataset": "triviaqa"
+    },
+    {
+        "instruction": "In 2006 Orhan Pamuk became the first Nobel Laureate from which country, when he won the literature prize?",
+        "output": " In 2006, Orhan Pamuk became the first Nobel Laureate from Turkey when he won the Literature Prize.",
+        "generator": "triviaqa_5000_13b",
+        "dataset": "triviaqa"
+    }
+]

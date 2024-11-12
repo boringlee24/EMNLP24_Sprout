@@ -1,0 +1,2 @@
+,win_rate,standard_error,n_wins,n_wins_base,n_draws,n_total,discrete_win_rate,mode,avg_length
+scienceqa_5000_brief+_13b,54.625,1.7612891281647198,437,363,0,800,54.625,community,48
