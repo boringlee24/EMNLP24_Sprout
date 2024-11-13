@@ -35,6 +35,7 @@ The Sprout optimizer system is under ``./sprout/system``. The generated results 
 
 ## Citation
 
+```@bibtex
 @inproceedings{li2024sprout,
   title={Sprout: Green Generative AI with Carbon-Efficient LLM Inference},
   author={Li, Baolin and Jiang, Yankai and Gadepally, Vijay and Tiwari, Devesh},
@@ -42,6 +43,6 @@ The Sprout optimizer system is under ``./sprout/system``. The generated results 
   pages={21799--21813},
   year={2024}
 }
-
+```
 Contact info: li.baol@northeastern.edu
 
